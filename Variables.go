@@ -1,3 +1,3 @@
 package bufio
 
-var Reference = true
+var Reference = false
